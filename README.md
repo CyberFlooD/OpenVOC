@@ -47,6 +47,7 @@ With the rise of cyber threats and the growing complexity of systems, a VOC prov
 - Reduced exposure times, limiting the risk of exploitation.
 - Better visibility into the organization's overall security posture.
 
-
-
+##
+**The initial diagram**
+![](./Img/OpenVOC.gif)
   
