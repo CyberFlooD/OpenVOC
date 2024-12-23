@@ -49,5 +49,5 @@ With the rise of cyber threats and the growing complexity of systems, a VOC prov
 
 ##
 **The initial diagram**
-![](./Img/OpenVOC.gif)
+![](./Img/OpenVOC2.gif)
   
